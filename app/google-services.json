@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612607167637",
+    "project_id": "picspiration-50e18",
+    "storage_bucket": "picspiration-50e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612607167637:android:590f7094296cfa8c2c5f9c",
+        "android_client_info": {
+          "package_name": "com.rebirth.picspiration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612607167637-hauotgeilftsb8atd7bqajg27c0rbocv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzMwAEm0IQua4N3O7YAiNzPo3gCZZdlmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612607167637-hauotgeilftsb8atd7bqajg27c0rbocv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
